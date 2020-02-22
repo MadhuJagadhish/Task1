@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/spinner001" android:duration="200"/>
+    <item android:drawable="@drawable/spinner002" android:duration="200"/>
+    <item android:drawable="@drawable/spinner003" android:duration="200"/>
+    <item android:drawable="@drawable/spinner004" android:duration="200"/>
+
+</animation-list>

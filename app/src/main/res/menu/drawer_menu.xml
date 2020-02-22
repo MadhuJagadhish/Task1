@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/homebutton"
+            android:title="Home"
+
+            />
+
+        <item android:id="@+id/google"
+            android:title="Google"
+            android:icon="@drawable/ic_googlee"
+            />
+        <item android:id="@+id/bing"
+            android:title="Bing"
+            android:icon="@drawable/ic_bing"/>
+
+        <item android:id="@+id/wiki"
+            android:title="WIKI"
+            android:icon="@drawable/wiki_ic"/>
+
+        <item android:id="@+id/yippy"
+            android:title="Yippy"
+            android:icon="@drawable/yippy_ic"/>
+
+        <item android:id="@+id/search_encrypt"
+            android:title="Search Encrypt"
+            android:icon="@drawable/searenc"/>
+
+        <item android:id="@+id/sweetsearch"
+            android:title="Sweet Search"
+            android:icon="@drawable/sweetsearch"/>
+
+        <item android:id="@+id/ask"
+            android:title="Ask"
+            android:icon="@drawable/ask"/>
+
+    </group>
+
+</menu>
